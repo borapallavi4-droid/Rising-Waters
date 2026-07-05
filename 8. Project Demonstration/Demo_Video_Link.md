@@ -4,10 +4,7 @@
 Rising Waters – AI Flood Prediction System
 
 ## Team Members
-- Shaik Daimel Basith
-- K. Prasamhita
-- D. Keerthi Priya
-- K. Venkata Prahladu
+- Bora Pallavi
 
 ## Demo Video
 
