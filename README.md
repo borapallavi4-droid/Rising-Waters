@@ -28,6 +28,18 @@ This project presents a Machine Learning-based flood prediction system that esti
 7. Project Documentation
 8. Project Demonstration
 
+ ## Project Features
+
+* Predicts flood risk using Machine Learning algorithms.
+* Analyzes environmental and geographical parameters for accurate predictions.
+* User-friendly web interface built with Flask.
+* Provides instant flood risk predictions based on user inputs.
+* Uses the XGBoost algorithm for improved prediction accuracy.
+* Processes and analyzes data efficiently using Pandas and NumPy.
+* Responsive frontend developed with HTML, CSS, and JavaScript.
+* Can be extended with real-time weather and rainfall data for enhanced forecasting.
+
+
 ## Demo Video
 
 https://drive.google.com/file/d/1TAMKbrIGULUSFxKJ2sQu6hU_Pifd7yHV/view?usp=sharing
