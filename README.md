@@ -1,14 +1,10 @@
 # Rising Waters – AI Flood Prediction System
 
 ## Team Members
-- Shaik Daimel Basith
-- K. Prasamhita
-- D. Keerthi Priya
-- K. Venkata Prahladu
-- A. Shanmukha Rao
+-BORA PALLAVI
 
 ## Abstract
-This project predicts flood risk using Machine Learning based on environmental and geographical parameters.
+This project presents a Machine Learning-based flood prediction system that estimates flood risk using environmental and geographical parameters. The model is trained on historical data containing factors such as rainfall, river levels, elevation, and weather conditions. By analyzing these features, the system predicts the probability of flooding, enabling early warnings and helping authorities and communities take preventive measures to reduce the impact of flood disasters.
 
 ## Technologies
 - Python
