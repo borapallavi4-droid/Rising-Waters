@@ -115,13 +115,7 @@ The XGBoost model achieved the best performance and was selected for deployment.
 ---
 
 ## 👨‍💻 Developed By
+BORA PALLAVI
 
-- **Shaik Daimel Basith**
-- **Kadali Prasamhita**
-- **Devupalli Keerthi Priya**
-- **Karlagunta Venkata Prahladu**
-- **Andaluri Shanmukha Rao**
-
-B.Tech CSE (AI & ML)
-
-ANITS
+B.Tech CSE (AI & ML
+RGUKT
