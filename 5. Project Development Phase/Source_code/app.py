@@ -4,6 +4,15 @@ import numpy as np
 import sqlite3
 from datetime import datetime
 
+# --- Compatibility patch for numpy version mismatch ---
+import sys
+if not hasattr(np, '_core'):
+    sys.modules['numpy._core'] = np.core
+    for sub in ['multiarray', 'umath', '_multiarray_umath']:
+        if hasattr(np.core, sub):
+            sys.modules[f'numpy._core.{sub}'] = getattr(np.core, sub)
+# --- end patch ---
+
 app = Flask(__name__)
 
 import sqlite3
