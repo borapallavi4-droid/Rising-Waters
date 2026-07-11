@@ -42,4 +42,4 @@ This project presents a Machine Learning-based flood prediction system that esti
 
 ## Demo Video
 
-https://drive.google.com/file/d/1j3qBHtMfaI7qZ3_Z8QpxEsU5vSXxUNGd/view?usp=sharing
+https://drive.google.com/file/d/1bsTIfBJLqCdv4S75XpUZ_iRN0ONmL9cL/view?usp=sharing
